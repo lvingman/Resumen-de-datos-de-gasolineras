@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1634252934 source:c:\users\yo\downloads\ejercicio 2\estacion.cpp
+	<iostream>
+	<cstdlib>
+	"Estacion.h"
+
+1634252934 c:\users\yo\downloads\ejercicio 2\estacion.h
+
+1634161862 source:c:\users\yo\downloads\ejercicio 2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1634161810 c:\users\yo\downloads\ejercicio 2\fecha.h
+
+1641330742 source:c:\users\yo\downloads\ejercicio 2\main.cpp
+	<iostream>
+	"ResumenDiario.h"
+	"Funciones.h"
+
+1634162454 c:\users\yo\downloads\ejercicio 2\resumendiario.h
+	"Fecha.h"
+
+1641331878 c:\users\yo\downloads\ejercicio 2\funciones.h
+	"ResumenDiario.h"
+	"Estacion.h"
+	"rlutil.h"
+
+1634162500 source:c:\users\yo\downloads\ejercicio 2\resumendiario.cpp
+	<iostream>
+	"ResumenDiario.h"
+
+1641330626 source:c:\users\yo\downloads\ejercicio 2\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"Funciones.h"
+
+1638454254 c:\users\yo\downloads\ejercicio 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
